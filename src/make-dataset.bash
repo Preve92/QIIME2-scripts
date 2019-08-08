@@ -1,7 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# Title: QIIME2 16S rRNA V3V4 PE-seqs workflow
-# Project: a-posteriori analysis of my MSc data
+# Title: Make-dataset from demultiplexed 16S rRNA V3V4 PE-seqs fastq
 # Author: Marco Prevedello
 # Date: 2019-05-07
 
